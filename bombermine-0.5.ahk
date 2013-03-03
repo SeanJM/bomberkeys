@@ -51,4 +51,5 @@ return
 
 Joy2::Send k
 Joy1::Send l
+Joy3::Send i
 Joy10::Send {space}
